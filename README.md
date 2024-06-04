@@ -26,5 +26,5 @@ Firstly let's understand what is the task that is to be completed and put into t
 - Y now edits the same file created by X and in the next line completes the same task mentioned earlier with his first name.
 - Y adds, commits and pushes the changes to his remote repository.
 - Y now creates a pull request for the same.
-- X now merges this pull request into his repository.
+- X now merges Y's pull request.
 - Finally either one of X or Y make a pull request to this repository by adding their Name and the URL of X's repository in the text file named TaskCompleted.txt
