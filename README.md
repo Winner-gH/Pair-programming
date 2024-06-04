@@ -2,7 +2,7 @@
 
 ![presentation](/assets/image.png)
 
-## This repo is where the final pull request is to be made after the completion of the whole pair programming task.
+## This repo is where the final pull request is to be made after the completion of the whole pair programming task mentioned below.
 
 Firstly let's understand what is the task that is to be completed and put into the file. Let's say that your first name is X-Mas, now 
 - Your first initial is X.
@@ -27,4 +27,4 @@ Firstly let's understand what is the task that is to be completed and put into t
 - Y adds, commits and pushes the changes to his remote repository.
 - Y now creates a pull request for the same.
 - X now merges Y's pull request.
-- Finally either one of X or Y make a pull request to this repository by adding their Name and the URL of X's repository in the text file named TaskCompleted.txt
+- Finally either one of X or Y should make a pull request to this repository by adding their Name and the URL of X's repository in the text file named TaskCompleted.txt above.
