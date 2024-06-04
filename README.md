@@ -22,4 +22,8 @@ Firstly let's understand what is the task that is to be completed and put into t
 - X now creates a text file (.txt) in the branch and then completes the task mentioned earlier.
 - The 2nd person (let's say Y) now forks X's repository and then clones it to his local directory.
 - Y now switches to the branch created by X.
-- Y now edits the same file created by X and in the ne
+- Y now edits the same file created by X and in the next line completes the same task mentioned earlier with his first name.
+- Y adds, commits and pushes the changes to his remote repository.
+- Y now creates a pull request for the same.
+- X now merges this pull request into his repository.
+- Finally either one of X or Y make a pull request to this repository by adding their Name and the URL of X's repository in the text file named TaskCompleted.txt
