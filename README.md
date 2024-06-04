@@ -13,6 +13,7 @@ Firstly let's understand what is the task that is to be completed and put into t
 - In our case it is 6.
 - Finally you have to write your first name followed by hyphen and then the answer obtained
 - In our case it will be Mohammed-6
+- If this answer comes out to be 0 then add 1 to it.
 
 ### Before the main task I would like to mention that only 1st year students are allowed to use the Github UI and 2nd years are allowed to do so at places where it is required.
 
