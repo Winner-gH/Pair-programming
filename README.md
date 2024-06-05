@@ -10,7 +10,7 @@ Firstly let's understand what is the task that is to be completed and put into t
 - Similarly Z-->26
 - Calculate the count of your first name's first initial, which in our case is 'Y' which corresponds to 25.
 - Finally you have to write your first name's first initial followed by hyphen and then the answer.
-- In our case it will be Yash-25
+- In our case it will be Y-25
 
 
 ## Main Task 
